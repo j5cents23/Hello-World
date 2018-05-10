@@ -1,0 +1,7 @@
+print "You have two questions"
+questions = raw_input("Ask them now")
+
+if questions = "Who are you"
+  print "I am groot"
+  
+else print "failure"
